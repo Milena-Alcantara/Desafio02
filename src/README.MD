@@ -1,6 +1,6 @@
 ### ESTRELAS  APRENDIZ - DESAFIO 02 JAVA OOP
 
-- O desfio consite em criar um sistema de Vendas, sendo possível:
+- O desafio consite em criar um sistema de Vendas, sendo possível:
 - Cadastrar um cliente;
 - Cadastrar um vendedor;
 - Simular a compra/venda de um produto;
@@ -30,8 +30,8 @@
 - Para conseguir realizar uma compra, é necessário ter um cadastro, sendo assim o cliente primeiro realiza o seu login com seu e-mail único, e constando o mesmo no sistema, é exibido os produtos dispóniveis.
 Esses produtos são gerados da Classe Produto com seus nomes, códigos e valores.
 - Ao finalizar sua compra, é exibido os produtos que foram escolhidos novamente, o valor total e é feito o cadastro dessa compra já associando ao CPF do cliente.
- O cadastro da venda também acontece nesse momento, porém associando a venda ao e-mail do vendedor que foi sorteado e ralizou o atendimento.
-- Para visualizar o histórico de compras, o cliente informa o CPF e é feito um verificação se este CPF está associado a alguma compra. Caso esteja, é exibido os produtos comprados, a data da comrpa, e o valor pago.
+ O cadastro da venda também acontece nesse momento, porém associando a venda ao e-mail do vendedor que foi sorteado e realizou o atendimento.
+- Para visualizar o histórico de compras, o cliente informa o CPF e é feito um verificação se este CPF está associado a alguma compra. Caso esteja, é exibido os produtos comprados, a data da compra, e o valor pago.
 - Por fim, a cada final de método, o Menu do cliente é chamado permitindo fazer uma nova operação ou sair do programa.
 
 
@@ -64,4 +64,6 @@ Esses produtos são gerados da Classe Produto com seus nomes, códigos e valores
 - No método consultar lista de clientes, é visulizado uma lista dos clientes cadastrados e seus dados.
 - No método consultar lista de vendedores, é visulizado uma lista dos vendedores cadastrados e seus dados.
 - Por fim, a cada final de método, o Menu do vendedor é chamado permitindo fazer uma nova operação ou sair do programa.
+
+<hr>
 
