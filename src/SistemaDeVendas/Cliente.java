@@ -204,9 +204,7 @@ try {
 
             default:
              System.exit(0);
-
         }
-
     }
     public static double finalizar(){
          valorTotal= 0;
